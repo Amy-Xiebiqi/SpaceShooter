@@ -1,0 +1,34 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7654]
+    Renderer: NVIDIA GeForce GTX 970M
+    Vendor:   NVIDIA
+    VRAM:     3040 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MSI\Desktop\test\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MSI\Desktop\test\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MSI\Desktop\test\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MSI\Desktop\test\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MSI\Desktop\test\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MSI\Desktop\test\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MSI\Desktop\test\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MSI\Desktop\test\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+Platform assembly: C:\Users\MSI\Desktop\test\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MSI\Desktop\test\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.773925 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b2c -> priority: 1 
+  Thread -> id: 4f4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.279305 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.279703 ms (FindLiveObjects: 0.013037 ms CreateObjectMapping: 0.031999 ms MarkObjects: 0.227555 ms  DeleteObjects: 0.006716 ms)
+
